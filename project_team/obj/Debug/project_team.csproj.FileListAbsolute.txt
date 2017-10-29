@@ -1,0 +1,9 @@
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\bin\Debug\project_team.exe.config
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\bin\Debug\project_team.exe
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\bin\Debug\project_team.pdb
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\obj\Debug\project_team.csprojResolveAssemblyReference.cache
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\obj\Debug\project_team.Form1.resources
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\obj\Debug\project_team.Properties.Resources.resources
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\obj\Debug\project_team.csproj.GenerateResource.Cache
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\obj\Debug\project_team.exe
+c:\users\karrar97\documents\visual studio 2012\Projects\project_team\project_team\obj\Debug\project_team.pdb
